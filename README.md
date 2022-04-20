@@ -3,7 +3,7 @@
 You can see my full-stack project created by ReactJs and Spring Boot by following link.
 https://bankanatolia.netlify.app/
 
-Here is my petclinic-microservices-deployment with DevOps tools. 
+Here is my petclinic-microservices-deployment by DevOps tools. 
 https://github.com/cemalsenel/petclinic-microservices-with-db
 
 <!--
