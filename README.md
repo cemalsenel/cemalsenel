@@ -4,7 +4,7 @@ You can see my full-stack project created by ReactJs and Spring Boot by followin
 https://bankanatolia.netlify.app/
 
 Here is my petclinic-microservices-deployment by AWS Services and DevOps tools. 
-https://github.com/cemalsenel/petclinic-microservices-with-db
+https://github.com/cemalsenel/petclinic-microservices-project-review
 
 <!--
 **cemalsenel/cemalsenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
