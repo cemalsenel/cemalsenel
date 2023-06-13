@@ -8,7 +8,6 @@ A passionate DevOps Engineer who believes learning is lifelong process.
 
 # 💻 Tech Stack:
 
---------------------------------------------------------------------------------------
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -82,7 +81,7 @@ A passionate DevOps Engineer who believes learning is lifelong process.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
 </div>
 
-###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cemalsenel&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cemalsenel&theme=nord&hide_border=false)<br/>
