@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate DevOps Engineer
+A passionate DevOps Engineer who believes learning is lifelong process.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ A passionate DevOps Engineer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cemalsenel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cemalsenel&icon=0&color=0)](https://visitcount.itsvg.in)
