@@ -7,9 +7,8 @@ A passionate DevOps Engineer who believes learning is lifelong process.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cemal-senel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@senelcemal61) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Cemal-Senel) 
 
 # 💻 Tech Stack:
-<p align="left">Hello World!!</p>
 
-###
+--------------------------------------------------------------------------------------
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
