@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning is lifelong process.
+A passionate DevOps Engineer
 
 
 ## 🌐 Socials:
