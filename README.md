@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced in DevOps and Cloud, passionate about automating IT processes, enthusiastic designing and building effective Continuous Integration and Delivery (CI/CD) pipelines using containerization, orchestration, monitoring, infrastructure automation tools, configuration management tools, and cloud solutions.<br>
+Experienced in DevOps and Cloud technologies, with a strong passion for automating IT processes and designing effective Continuous Integration and Delivery (CI/CD) pipelines. Skilled in utilizing containerization, orchestration, monitoring, infrastructure automation tools, and configuration management tools to enhance efficiency. Committed to implementing innovative cloud solutions that optimize workflows and drive business success.<br>
 
 
 ## 🌐 Socials:
